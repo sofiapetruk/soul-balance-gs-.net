@@ -8,6 +8,12 @@
 | Victor Henrique | 556206 | 2TDSPH |
 | Sofia Petruk    | 556585 | 2TDSPV |
 
+## Definir do Desafio
+Esta API RESTful será desenvolvida para centralizar e automatizar o gerenciamento de ativos digitais de bem-estar (como dicas, exercícios e leituras) e o registro de eventos/cursos da plataforma SoulBalance. Ela supera os desafios da curadoria e distribuição manual de conteúdo, servindo como a espinha dorsal de dados para o aplicativo mobile e outras interfaces.
+
+## Objetivo Principal da API
+O objetivo é fornecer uma visão clara e completa do conteúdo e da agenda de desenvolvimento pessoal da SoulBalance
+
 # Vídeo do projeto
 https://www.youtube.com/watch?v=eHVTL-WOr1I
 
