@@ -1,0 +1,6 @@
+@soulBalanceGs_HostAddress = http://localhost:5053
+
+GET {{soulBalanceGs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
