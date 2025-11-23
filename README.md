@@ -18,11 +18,11 @@ O objetivo é fornecer uma visão clara e completa do conteúdo e da agenda de d
 https://www.youtube.com/watch?v=eHVTL-WOr1I
 
 # Link do Deploy
-https://soul-balance-gs.onrender.com/
-https://soul-balance-gs.onrender.com/atividade
-https://soul-balance-gs.onrender.com/checkin-manual
-https://soul-balance-gs.onrender.com/dados-sensor
-https://soul-balance-gs.onrender.com/usuarios
+- https://soul-balance-gs.onrender.com/
+- https://soul-balance-gs.onrender.com/atividade
+- https://soul-balance-gs.onrender.com/checkin-manual
+- https://soul-balance-gs.onrender.com/dados-sensor
+- https://soul-balance-gs.onrender.com/usuarios
 
 
 ## Instruções para Executação da API
